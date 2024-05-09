@@ -5,6 +5,8 @@ This repository contains a clone of the user interface (UI) for Usability Hub, a
 
 ## Preview
 
+Project Link: (https://gyanendu01.github.io/Usability-Hub-UI-Clone/)
+
 ## Features
 - Accurate representation of Usability Hub's UI components and layout
 - Clean and modular CSS code structure for easy maintenance
@@ -58,4 +60,4 @@ This project is licensed under the [MIT License](LICENSE).
 [Gmail ](gyanenduboitai2004@gmail.com)
 
 
-Project Link: (https://github.com/Gyanendu01/Usability-Hub-UI-Clone.git)
+
